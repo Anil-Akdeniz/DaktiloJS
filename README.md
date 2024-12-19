@@ -61,7 +61,7 @@ DaktiloJS.init('.daktilojs', {
 | `carriageReturnSound`    | `string`    | Embedded sound file         | Custom carriage return sound file (optional).                              |
 | `soundLevel`             | `number`    | `0.5`                       | Volume level for sound effects (0 to 1).                                   |
 | `showCursor`             | `boolean`   | `true`                      | Enables or disables the blinking cursor.                                   |
-| `cursorChar`             | string      | `|`                      | Character used as the cursor.                                             |
+| `cursorChar`             | string      | `U+007C`                      | Character used as the cursor.                                             |
 | `cursorBlinkDuration`    | `number`    | `700`                       | Cursor blink duration in milliseconds.                                     |
 | `startDelay`             | `number`    | `0`                         | Delay (ms) before the animation starts.                                    |
 | `debugger`               | `boolean`   | `false`                     | Enables debugging logs in the console.                                     |
